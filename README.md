@@ -25,9 +25,10 @@ cd back
 • npm install --save-dev nodemon (instalação de dependência)
 • npm install cors (instalação de dependência)
 • npm install sqlite3 (instalação de dependência)
-• npm start (excutar o projeto)
-• npm run dev (executar o projeto como desenvolvedor).
+• npm start (excutar o projeto).
 ```
+
+### Em outro terminal 
 
 
  <h3>FRONT-END</h3>
